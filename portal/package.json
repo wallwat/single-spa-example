@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Portal app that builds the foundation of multiple SPAs",
   "scripts": {
-    "watch": "webpack-dev-server --port 9000",
+    "watch": "webpack-dev-server --port 7000",
     "build": "webpack -p --progress"
   },
   "author": "Michael Ruecker",
